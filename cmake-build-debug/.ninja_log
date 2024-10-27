@@ -1,0 +1,12 @@
+# ninja log v6
+1	54	1730033902658201576	build.ninja	782d90831e6d24fa
+0	526	1730033902665149940	CMakeFiles/pwr_racing_team_recruitment.dir/main.cpp.o	7e07eb1e84151497
+527	552	1730033903192703331	pwr_racing_team_recruitment	900f14edcf631e7f
+5	514	1730033998798658163	CMakeFiles/pwr_racing_team_recruitment.dir/main.cpp.o	7e07eb1e84151497
+514	540	1730033999307361791	pwr_racing_team_recruitment	900f14edcf631e7f
+7	604	1730034156054121479	CMakeFiles/pwr_racing_team_recruitment.dir/main.cpp.o	7e07eb1e84151497
+604	632	1730034156651253220	pwr_racing_team_recruitment	900f14edcf631e7f
+6	521	1730034263620729864	CMakeFiles/pwr_racing_team_recruitment.dir/main.cpp.o	7e07eb1e84151497
+521	545	1730034264136240440	pwr_racing_team_recruitment	900f14edcf631e7f
+6	588	1730034321747717306	CMakeFiles/pwr_racing_team_recruitment.dir/main.cpp.o	7e07eb1e84151497
+589	672	1730034322330367445	pwr_racing_team_recruitment	900f14edcf631e7f
